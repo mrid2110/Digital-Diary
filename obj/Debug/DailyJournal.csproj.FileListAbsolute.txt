@@ -1,0 +1,11 @@
+E:\Programming Codes\DailyJournal\bin\Debug\DailyJournal.exe.config
+E:\Programming Codes\DailyJournal\bin\Debug\DailyJournal.exe
+E:\Programming Codes\DailyJournal\bin\Debug\DailyJournal.pdb
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.csprojAssemblyReference.cache
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.Form1.resources
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.Properties.Resources.resources
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.csproj.GenerateResource.cache
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.csproj.CoreCompileInputs.cache
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.exe
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.pdb
+E:\Programming Codes\DailyJournal\obj\Debug\DailyJournal.Dashboard.resources
